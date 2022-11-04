@@ -24,8 +24,11 @@ export function Hero() {
             recommendations for it.
           </p>
           <div className="mt-10">
-            <Button href="/register" className="bg-blue-600">
-              Register
+            <Button href="/apks/member.apk" className="bg-blue-600">
+              Download Member APK
+            </Button>
+            <Button href="/apks/admin.apk" className="ml-5" variant='outline'>
+              Download Admin APK
             </Button>
           </div>
         </div>
