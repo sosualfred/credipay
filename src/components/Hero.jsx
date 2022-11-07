@@ -16,7 +16,7 @@ export function Hero() {
         <div>
           <h1 className="max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
             <span className="relative whitespace-nowrap text-blue-600">
-              Your credit <br/>your identity
+              Your credit score <br/>your identity
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-xl tracking-tight text-slate-700">
