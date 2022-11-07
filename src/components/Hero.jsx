@@ -20,8 +20,7 @@ export function Hero() {
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-xl tracking-tight text-slate-700">
-            Find out your credit rating and get personal or business
-            recommendations for it.
+            Find out your credit rating and get personal or business.
           </p>
           <div className="mt-10">
             <Button href="/apks/member.apk" className="bg-blue-600">
